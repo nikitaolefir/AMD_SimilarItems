@@ -13,3 +13,5 @@ Detects near-duplicate arXiv abstracts using k-shingling, MinHashing, and LSH on
 
 Download from [Kaggle](https://www.kaggle.com/datasets/Cornell-University/arxiv).
 
+## Google Colab
+To open it in Colab open the [link](https://colab.research.google.com/github/nikitaolefir/AMD_SimilarItems/blob/main/main.ipynb) or open it in Colab via Open > Github > paste link to this repo
